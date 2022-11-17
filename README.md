@@ -1,2 +1,3 @@
-# 1kb.club
-An exclusive members-only club for web pages weighing less than 1 kilobyte
+# 1kb.club (Archived)
+
+This project has moved to sourcehut: [https://git.sr.ht/~bt/1kb-club](https://git.sr.ht/~bt/1kb-club)
